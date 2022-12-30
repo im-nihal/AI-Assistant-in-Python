@@ -6,13 +6,13 @@
 
 <p>NOTE: 1) This project is built in linux OS it will not work properly on windows.
          2) To run on windows change espeak to sapi5
-         3) play music command needs to code again.
+         3) play music command needs to code again.</p>
         
           >>> elif 'play music' in query:
                  music_dir = 'path goes here'
                  songs = os.listdir(music_dir)
                  print(songs)    
-                 os.startfile(os.path.join(music_dir, songs[0])) </p>
+                 os.startfile(os.path.join(music_dir, songs[0]))
 
 <p align="center"><img src="https://img.shields.io/badge/-made%20with%20python-green" alt="shields"></p>
 
