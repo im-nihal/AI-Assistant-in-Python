@@ -23,11 +23,10 @@
 
 Here're some of the project's best features:
 
-*   final word - plays 'Quran' recitation on youtube.
+*   recite quran - plays 'Quran' recitation on youtube.
 *   tell time - when command 'tell time' is given it tells time
 *   greet - upon waking it will greet you according to the time
 *   day - tells you the day of week
-*   recite - plays recitation of quran from youtube
 *   open youtube - opens youtube
 *   wikipedia - tells you information from wikipedia
 *   play music - plays music from computer
