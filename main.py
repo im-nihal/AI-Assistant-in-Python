@@ -101,7 +101,7 @@ if __name__ == "__main__":
             speak('playing' + query + 'On Youtube')
             pywhatkit.playonyt(query)
 
-        elif 'final word' in query: #plays quran recitations videos from youtube
+        elif 'recite quran' in query: #plays quran recitations videos from youtube
             speak("Excellent choice Master.")
             webbrowser.open("https://www.youtube.com/watch?v=UDvh63xHVa0&list=PLoqNzfHlA__knCeUoKUHjQfZpUL6mj64w")
 
