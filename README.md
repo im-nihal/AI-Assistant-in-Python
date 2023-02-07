@@ -6,9 +6,8 @@
 
 <p id="description">It is a voice assistant which can be used to interact with your computer to accomplish daily goals. A python based programme that uses speech recognition and text-to-speech functions. This AI is desined in ubuntu linux and works only when system is online.</p>
 
-<p>NOTE: 1) This project is built in linux OS it will not work properly on windows.
-         2) To run on windows change espeak to sapi5
-         3) play music command needs to code again.</p>
+<p>NOTE: 1) This project is built in linux OS it will not work properly on windows. To run on windows change espeak to sapi5.</p>
+<p>NOTE: 2) play music command needs to code again.</p>
         
           >>> elif 'play music' in query:
                  music_dir = 'path goes here'
